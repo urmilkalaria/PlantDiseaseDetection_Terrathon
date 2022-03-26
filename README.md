@@ -1,1 +1,1 @@
-# PlantDiseaseDetection_Terrathon
+# TEAM C3PO
